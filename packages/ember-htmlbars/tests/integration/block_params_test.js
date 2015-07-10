@@ -2,7 +2,7 @@ import Registry from 'container/registry';
 import run from 'ember-metal/run_loop';
 import ComponentLookup from 'ember-views/component_lookup';
 import View from 'ember-views/views/view';
-import Component from 'ember-views/views/component';
+import Component from 'ember-views/components/component';
 import compile from 'ember-template-compiler/system/compile';
 import helpers from 'ember-htmlbars/helpers';
 import { registerHelper } from 'ember-htmlbars/helpers';

@@ -6,7 +6,7 @@
 import Ember from 'ember-metal/core';
 import helpers from 'ember-htmlbars/helpers';
 import View from 'ember-views/views/view';
-import Component from 'ember-views/views/component';
+import Component from 'ember-views/components/component';
 import makeViewHelper from 'ember-htmlbars/system/make-view-helper';
 import makeBoundHelper from 'ember-htmlbars/compat/make-bound-helper';
 import { isStream } from 'ember-metal/streams/utils';

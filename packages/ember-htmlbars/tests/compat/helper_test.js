@@ -3,7 +3,7 @@ import {
 } from 'ember-htmlbars/compat/helper';
 
 import EmberView from 'ember-views/views/view';
-import Component from 'ember-views/views/component';
+import Component from 'ember-views/components/component';
 
 import makeViewHelper from 'ember-htmlbars/system/make-view-helper';
 import helpers from 'ember-htmlbars/helpers';
